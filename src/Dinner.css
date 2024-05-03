@@ -1,0 +1,14 @@
+.he{
+    color: aliceblue;
+}
+body{
+    text-align: center;
+}
+.room{
+    color: aliceblue;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    outline: none;
+    margin: 10px;
+}
